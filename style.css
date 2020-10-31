@@ -86,7 +86,7 @@ p {
 .header-right {
   color: #fff;
   font-size: 20px;
-  max-width: 90%;
+  /* max-width: 90%; */
   text-align: center;
 }
 .header-right h1 {
@@ -101,7 +101,8 @@ p {
   display: inline-block;
 }
 .header-right p {
-  padding: 0 50px;
+  /* padding: 0 50px; */
+  margin-bottom: 0px;
 }
 .header-right span,
 .single-music-list span, h4.secondary-color {
@@ -140,5 +141,5 @@ h4.secondary-color {
 }
 
 .mleft {
-  margin-left: 60px;
+  /* margin-left: 60px; */
 }
