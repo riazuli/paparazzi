@@ -138,12 +138,7 @@ ul.style2 li::before {
 h4.secondary-color {
   color: #ffde00;
 }
-.single-music-list.mt--50 {
-  margin-top: -50px;
-}
-.single-music-list.mt--85 {
-  margin-top: -50px;
-}
+
 .mleft {
   margin-left: 60px;
 }
