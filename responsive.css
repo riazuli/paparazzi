@@ -3,7 +3,7 @@
   /* css */
   .main-wrapper {
     background: none;
-    background-image: url("assets/img/bg2.jpg");
+    background-image: url("https://riazuli.github.io/paparazzi/assets/img/bg2.jpg");
     position: relative;
   }
   .main-wrapper::before {
@@ -13,7 +13,7 @@
     bottom: 2px;
     width: 25%;
     height: 500px;
-    background: url("assets/img/girl.png") no-repeat scroll center bottom /
+    background: url("https://riazuli.github.io/paparazzi/assets/img/girl.png") no-repeat scroll center bottom /
       contain;
   }
   .mleft {

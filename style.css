@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@400;700&display=swap');
+
 /*------Start Base CSS------*/
 * {
   margin: 0;
@@ -9,7 +11,15 @@ body {
   font-family: 'Bebas Neue',
   cursive;
 }
-img {
+.main-wrapper {
+  font-size: 15px !important;
+  line-height: 1.5 !important;
+  font-family: 'Bebas Neue',
+  cursive  !important;
+}
+
+
+.main-wrapper img {
   height: auto;
   max-width: 100%;
   border: none;
@@ -32,16 +42,15 @@ textarea:focus,
 button:focus {
   outline: 0 solid;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+.main-wrapper h1,
+.main-wrapper h2,
+.main-wrapper h3,
+.main-wrapper h4,
+.main-wrapper h5,
+.main-wrapper h6 {
   margin-bottom: 10px;
   margin-top: 0;
-  font-family: 'Montserrat',
-  sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
 }
 p {
@@ -65,7 +74,7 @@ p {
 /*------End Base CSS------*/
 
 .main-wrapper {
-  background-image: url("assets/img/bg4.jpg");
+  background-image: url("https://riazuli.github.io/paparazzi/assets/img/bg4.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;

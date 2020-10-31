@@ -9,6 +9,8 @@
 
 	<!-- Title -->
 	<title>Unsigned Paparazzi</title>
+	<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@700&display=swap"
+		rel="stylesheet">
 	<!-- Bootstrap CSS -->
 	<link type="text/css" rel="stylesheet"
 		href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
