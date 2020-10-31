@@ -19,6 +19,12 @@
   .mleft {
     margin-left: 0;
   }
+  .single-music-list.mt--50 {
+    margin-top: -50px;
+  }
+  .single-music-list.mt--85 {
+    margin-top: -50px;
+  }
 }
 
 /*		Tablet Layout: 768px.       */
